@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    justify-content: center;
+    width: 32%;
+    padding-left: 13%;
+}
+
+.topic p{
+    font-size: 100px;
+    color: white;
+    font-weight: 700;
+    margin: 0;
+}
+
+.description p{
+    color: rgba(255, 255, 255, 0.832);
+    font-weight: 200;
+    font-size: 24px;
+}
+
+.container .Buttons .Buy-btn, .More-btn{
+    display: inline-block;
+    width: 130px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 15px;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 800;
+}
+
+.Buy-btn {
+    background-color: rgb(39, 42, 49);
+    color: white;
+}
+
+.More-btn {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: rgb(39, 42, 49);
+}
+
