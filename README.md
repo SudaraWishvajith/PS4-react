@@ -1,3 +1,2 @@
-Sample application create with threeJS, React
-
-![image](https://github.com/SudaraWishvajith/PS4-react/assets/93005479/e09b3b27-1148-4319-9a08-9a878c14bbc1)
+A sample web application built using 3JS
+https://github.com/SudaraWishvajith/PS4-react/assets/93005479/71ae0095-384c-4842-8b54-703808d5228b
